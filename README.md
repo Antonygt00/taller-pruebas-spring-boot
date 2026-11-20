@@ -6,6 +6,8 @@ Taller de pruebas de software en Spring Boot — reserva de citas médicas.
 
 - Esteban Pautt
 - Antony Goez
+- Stiven Alvarez
+- Juan Cantillo
 
 ## Requisitos
 
